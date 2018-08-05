@@ -1,0 +1,83 @@
+1533467269495	geckodriver	INFO	geckodriver 0.21.0
+1533467269510	geckodriver	INFO	Listening on 127.0.0.1:54615
+1533467270517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jj75q2hK25T6"
+1533467272564	Marionette	INFO	Listening on port 44875
+1533467272683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533467300508	geckodriver	INFO	geckodriver 0.21.0
+1533467300522	geckodriver	INFO	Listening on 127.0.0.1:40093
+1533467301525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k2OpfZsC9tKh"
+1533467303430	Marionette	INFO	Listening on port 32973
+1533467303533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533467321346	geckodriver	INFO	geckodriver 0.21.0
+1533467321361	geckodriver	INFO	Listening on 127.0.0.1:50327
+1533467322363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fj7eEzcnsJ4E"
+1533467324296	Marionette	INFO	Listening on port 46361
+1533467324373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1533467519365	geckodriver	INFO	geckodriver 0.21.0
+1533467519379	geckodriver	INFO	Listening on 127.0.0.1:42475
+1533467520382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.46IDP66YiMVg"
+1533467522591	Marionette	INFO	Listening on port 41257
+1533467522695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1533467550020	geckodriver	INFO	geckodriver 0.21.0
+1533467550024	geckodriver	INFO	Listening on 127.0.0.1:42109
+1533467551031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fh3j54jRNjUZ"
+1533467553729	Marionette	INFO	Listening on port 38849
+1533467553745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1533467581406	geckodriver	INFO	geckodriver 0.21.0
+1533467581421	geckodriver	INFO	Listening on 127.0.0.1:40129
+1533467582424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ip76BJWObP2g"
+1533467585479	Marionette	INFO	Listening on port 33871
+1533467585549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533467662673	geckodriver	INFO	geckodriver 0.21.0
+1533467662687	geckodriver	INFO	Listening on 127.0.0.1:58987
+1533467663690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rFqqVJLYj5Fc"
+1533467665795	Marionette	INFO	Listening on port 33157
+1533467665803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533467727865	geckodriver	INFO	geckodriver 0.21.0
+1533467727880	geckodriver	INFO	Listening on 127.0.0.1:58071
+1533467728883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uMGCv6Z51vUJ"
+
+(/usr/lib/firefox/firefox:19616): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1029.
+
+
+(/usr/lib/firefox/firefox:19694): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1029.
+
+1533467730957	Marionette	INFO	Listening on port 33393
+1533467730994	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20213): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1033.
+
+
+(/usr/lib/firefox/firefox:20133): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1033.
+
+1533467964131	geckodriver	INFO	geckodriver 0.21.0
+1533467964138	geckodriver	INFO	Listening on 127.0.0.1:38671
+1533467965147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A0eJUhCxQRNh"
+1533467968563	Marionette	INFO	Listening on port 32915
+1533467968662	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20908): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1045.
+
+
+(/usr/lib/firefox/firefox:20939): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1045.
+
+1533468037928	geckodriver	INFO	geckodriver 0.21.0
+1533468037944	geckodriver	INFO	Listening on 127.0.0.1:43479
+1533468038949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.46syU6dILbwC"
+1533468041011	Marionette	INFO	Listening on port 38545
+1533468041062	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21159): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1045.
+
+
+(/usr/lib/firefox/firefox:21238): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (资源暂时不可用) on X server :1045.
+
